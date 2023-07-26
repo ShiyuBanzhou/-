@@ -1,0 +1,6 @@
+可点击疯狂赛车安装程序.exe 按照提示进行游戏安装游玩
+也可以自行点击GamePlay中的x64文件夹下Release文件夹内的GamePlay.exe进行游玩
+或是GamePlay文件夹中的GamePlay.sln用visualstudio打开后编译游玩
+
+所有内容均已做开源处理，供学弟学妹学习，也欢迎大家随时进行订正，在此感谢所有帮助过我的老师以及同学们，谢谢大家！Git:https://github.com/ShiyuBanzhou/CrazyRacingGame#crazyracinggame
+cppaste:https://www.cppaste.com/p/tOG6Zijm
